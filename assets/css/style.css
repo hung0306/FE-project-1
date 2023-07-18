@@ -615,6 +615,10 @@ SECTION-FIVE */
         width: 100%;
         margin-bottom: 30px;
     }
+    .section-five .inner-wrap .inner-box .btn3{
+        right: 30px;
+
+    }
     .section-five .inner-wrap .inner-box3 img{
         width: 100%;
        
