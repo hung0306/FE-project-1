@@ -197,7 +197,7 @@ margin: 0px;
     border-radius: 5px;
     display: inline-block;
     margin: 10px;
-    font-size: 15px;
+  
     font-weight: 500;
 
 
@@ -324,6 +324,7 @@ SECTION-TWO */
 .section-two .inner-list i{
     font-size: 40px;
     color:#FF8484;
+    
     
 }
 .section-two h3{
